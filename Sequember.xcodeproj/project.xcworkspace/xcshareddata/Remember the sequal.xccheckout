@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4C79D14C-5D2B-4B2C-B205-95942BFC1E29</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Remember the sequal</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>107CFA937831704172BDD5C675766204309AC3EB</key>
+		<string>https://bitbucket.org/noobsreturn/remember-the-sequal.git</string>
+		<key>E2F476CE895D3596DBE8080E8F363F8F94823E70</key>
+		<string>git://github.com/konstantinkoval/ExSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Remember the sequal.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>107CFA937831704172BDD5C675766204309AC3EB</key>
+		<string>../../..</string>
+		<key>E2F476CE895D3596DBE8080E8F363F8F94823E70</key>
+		<string>../..ExSwift/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/noobsreturn/remember-the-sequal.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>107CFA937831704172BDD5C675766204309AC3EB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>107CFA937831704172BDD5C675766204309AC3EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2F476CE895D3596DBE8080E8F363F8F94823E70</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ExSwift</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>107CFA937831704172BDD5C675766204309AC3EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rtsequal_blue%20dropdown</string>
+		</dict>
+	</array>
+</dict>
+</plist>

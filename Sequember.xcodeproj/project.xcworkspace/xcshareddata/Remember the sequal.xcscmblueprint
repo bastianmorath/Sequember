@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "107CFA937831704172BDD5C675766204309AC3EB+++B7EC058",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "107CFA937831704172BDD5C675766204309AC3EB+++B7EC058" : 0,
+    "E2F476CE895D3596DBE8080E8F363F8F94823E70+++260E7C5" : 0,
+    "E2F476CE895D3596DBE8080E8F363F8F94823E70+++A95544E" : 0,
+    "107CFA937831704172BDD5C675766204309AC3EB+++6063696" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4C79D14C-5D2B-4B2C-B205-95942BFC1E29",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "107CFA937831704172BDD5C675766204309AC3EB+++B7EC058" : "rtsequal_blue%20dropdown",
+    "E2F476CE895D3596DBE8080E8F363F8F94823E70+++260E7C5" : "..\/..ExSwift\/",
+    "E2F476CE895D3596DBE8080E8F363F8F94823E70+++A95544E" : "rtsequal_blue%20dropdown\/ExSwift\/",
+    "107CFA937831704172BDD5C675766204309AC3EB+++6063696" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Remember the sequal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Remember the sequal.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/noobsreturn\/remember-the-sequal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "107CFA937831704172BDD5C675766204309AC3EB+++6063696"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/noobsreturn\/remember-the-sequal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "107CFA937831704172BDD5C675766204309AC3EB+++B7EC058"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/konstantinkoval\/ExSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2F476CE895D3596DBE8080E8F363F8F94823E70+++260E7C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/konstantinkoval\/ExSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2F476CE895D3596DBE8080E8F363F8F94823E70+++A95544E"
+    }
+  ]
+}
